@@ -7,6 +7,7 @@ import InputForm from "./Components/Foam";
 
 const Home = () =>{
     return (
+        
     <>
     <div className="row">
     <section className="col-md-2 col-sm-12">
